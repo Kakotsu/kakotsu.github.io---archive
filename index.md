@@ -1,11 +1,12 @@
-### Projects
-#### In order of development:
+# Kakotsu
+
+### Projects In order of development:
 * [TakumiPY](https://github.com/ducanh2002123/Takumi) - (Inactive Development - Fork mentained by [@THK](https://github.com/ducanh2002123))
 * [TakumiJS]() - (Active Development)
 * [TakumiTS]() (Active Development)
 * [KokoroBridge]() (Active Development)
 
-### Members
+### Members:
 
 * [Zemyoro](https://github.com/zemyoro) - (Owner)
 * [LeviChev](https://github.com/levichlev) - (TakumiJS Developer)
