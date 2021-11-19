@@ -1,11 +1,4 @@
-<!-- 
-layout: page
-title: "PAGE TITLE"
-permalink: /URL-PATH/
--->
-
-## Kakotsu
-
+<-- Site for now -->
 ### Projects
 #### In order of development:
 * [TakumiPY](https://github.com/ducanh2002123/Takumi) - (Inactive Development - Fork mentained by [@THK](https://github.com/ducanh2002123))
