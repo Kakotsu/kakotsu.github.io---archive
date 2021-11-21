@@ -8,14 +8,15 @@
 
 		
 
-		<link rel="modulepreload" href="/_app/start-c8af42c1.js">
-		<link rel="modulepreload" href="/_app/chunks/vendor-14fceb67.js">
-		<link rel="modulepreload" href="/_app/pages/__layout.svelte-1a4a209c.js">
-		<link rel="modulepreload" href="/_app/pages/about.svelte-311a9336.js">
+		<link rel="modulepreload" href="/_app/start-0f8ddc9a.js">
+		<link rel="modulepreload" href="/_app/chunks/vendor-dd4ebecb.js">
+		<link rel="modulepreload" href="/_app/pages/__layout.svelte-2dc75eab.js">
+		<link rel="modulepreload" href="/_app/pages/about.svelte-e423cff3.js">
 		<link rel="stylesheet" href="/_app/assets/start-61d1577b.css">
+		<link rel="stylesheet" href="/_app/assets/vendor-28d9e71a.css">
 
 		<script type="module">
-			import { start } from "/_app/start-c8af42c1.js";
+			import { start } from "/_app/start-0f8ddc9a.js";
 			start({
 				target: document.querySelector("#svelte"),
 				paths: {"base":"","assets":""},
@@ -28,8 +29,8 @@
 					status: 200,
 					error: null,
 					nodes: [
-						import("/_app/pages/__layout.svelte-1a4a209c.js"),
-						import("/_app/pages/about.svelte-311a9336.js")
+						import("/_app/pages/__layout.svelte-2dc75eab.js"),
+						import("/_app/pages/about.svelte-e423cff3.js")
 					],
 					page: {
 						host: location.host, // TODO this is redundant
@@ -40,6 +41,7 @@
 				}
 			});
 		</script>
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css">
 	</head>
 	<body>
 		<div id="svelte">
@@ -51,11 +53,16 @@
 
 
 
-<div><nav><a href="/">Home</a>
-    <a href="/about">About</a></nav>
+<div><nav class="navbar navbar-expand-md navbar-dark bg-dark"><div class="container-fluid"><a class="navbar-brand" href="/">Kakotsu</a>
+	  <button class="navbar-toggler btn btn-secondary" value="" style="">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+	  
 
-  
-  
+</div></nav>
+
+	
+	
 
 
 <div>
