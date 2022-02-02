@@ -4,7 +4,8 @@
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
-    "preview": "svelte-kit preview"
+    "preview": "svelte-kit preview",
+    "deploy": "git subtree push --prefix build origin gh-pages" 
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^1.0.0-next.21",
